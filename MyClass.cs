@@ -14,6 +14,6 @@ public MyClass
 
   public string Name()
   {
-
+    return m_name;
   }
 }
