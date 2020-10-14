@@ -9,6 +9,7 @@ public MyClass
 
   public void Rename(string newName)
   {
+    //Just change the value of m_name
     m_name = newName;
   }
 
